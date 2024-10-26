@@ -22,4 +22,4 @@ This chatbot serves as a foundation for building more complex conversational age
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/chatbot-project.git
+   it clone https://github.com/johanjoseph29/chatbot.git
